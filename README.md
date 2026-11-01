@@ -251,4 +251,4 @@ This repository serves as the official landing page for Ravaged. The software is
 **Get the most recent version of Ravaged today!**
 
 ---
-**Last updated:** 2026-10-31 23:15:12 UTC
+**Last updated:** 2026-11-01 05:31:14 UTC
